@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

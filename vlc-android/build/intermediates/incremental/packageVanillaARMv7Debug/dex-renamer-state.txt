@@ -1,0 +1,4 @@
+#Mon Jan 16 17:45:32 CST 2017
+base.0=/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/transforms/dex/vanillaARMv7/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/transforms/dex/vanillaARMv7/debug/folders/1000/1f/main/classes.dex

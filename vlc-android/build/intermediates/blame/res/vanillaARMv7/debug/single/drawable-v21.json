@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/lb_selectable_item_rounded_rect.xml",
+        "source": "/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/res/drawable-v21/lb_selectable_item_rounded_rect.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/panpan/.android/build-cache/934d9fe8f2873e56c5b7bc7b4940164d1c8b3efe/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/lb_control_button_secondary.xml",
+        "source": "/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/res/drawable-v21/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/lb_control_button_primary.xml",
+        "source": "/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/res/drawable-v21/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/lb_card_foreground.xml",
+        "source": "/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/res/drawable-v21/lb_card_foreground.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/panpan/.android/build-cache/934d9fe8f2873e56c5b7bc7b4940164d1c8b3efe/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/panpan/.android/build-cache/934d9fe8f2873e56c5b7bc7b4940164d1c8b3efe/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/lb_action_bg.xml",
+        "source": "/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/res/drawable-v21/lb_action_bg.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/panpan/.android/build-cache/934d9fe8f2873e56c5b7bc7b4940164d1c8b3efe/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/background_item.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-v21/background_item.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-v21/preference_list_divider_material.xml",
+        "source": "/home/panpan/.android/build-cache/35bb359f737ecfb6a6784425ee00aad02c5931b0/output/res/drawable-v21/preference_list_divider_material.xml"
+    }
+]

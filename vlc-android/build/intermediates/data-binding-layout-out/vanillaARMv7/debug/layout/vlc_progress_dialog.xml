@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                    
+    
+                                                
+                                           
+                                                                                  
+                                                                                        
+           
+    <ScrollView android:tag="layout/vlc_progress_dialog_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:tag="binding_1"      
+                android:layout_margin="10dp" />
+            <android.support.v4.widget.ContentLoadingProgressBar
+                android:id="@+id/progress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:max="100"
+                android:tag="binding_2"                            />
+            <Button
+                android:id="@+id/cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/progress"
+                android:text="@android:string/cancel"
+                android:layout_alignParentRight="true"
+                android:tag="binding_3"               
+                tools:targetApi="11"
+                style="?android:attr/borderlessButtonStyle"
+                                                                                                       />
+        </RelativeLayout>
+    </ScrollView>
+         

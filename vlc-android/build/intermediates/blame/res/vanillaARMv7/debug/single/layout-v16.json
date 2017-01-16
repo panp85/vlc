@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/layout-v16/player_action_bar.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/layout-v16/player_action_bar.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

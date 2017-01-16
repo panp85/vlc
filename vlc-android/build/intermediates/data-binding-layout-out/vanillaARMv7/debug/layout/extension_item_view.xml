@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                         
+    
+                                          
+                 
+                         
+                                                                             
+                 
+                       
+                                                                     
+                 
+                        
+                                                             
+           
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:clickable="true"
+                                              android:tag="layout/extension_item_view_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:vlc="http://schemas.android.com/apk/res-auto">
+        <ImageView
+            android:id="@+id/extension_image"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginRight="5dp"
+                                    android:tag="binding_1"/>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/extension_image"
+            android:layout_toLeftOf="@+id/item_more"
+            android:layout_above="@+id/author"
+            android:layout_marginBottom="1dp"
+            android:gravity="bottom"
+            android:tag="binding_2"     
+            android:fontFamily="sans-serif-light"
+            android:textColor="?attr/list_title"
+            android:textSize="16sp"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:singleLine="true" />
+
+        <TextView
+            android:id="@+id/author"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/extension_image"
+            android:layout_toLeftOf="@+id/item_more"
+            android:layout_marginTop="1dp"
+            android:gravity="top"
+            android:tag="binding_3"        
+            android:fontFamily="sans-serif-light"
+            android:textColor="?attr/list_subtitle"
+            android:ellipsize="marquee"
+            android:maxLines="1" />
+        <ImageView
+            android:id="@+id/item_more"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_more"
+            android:tag="binding_4"                                           />
+    </RelativeLayout>
+         

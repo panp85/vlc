@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_search.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_info_outline_white.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_info_outline_white.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_notif_audio.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_notif_audio.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_playlist_add_white.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_playlist_add_white.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_notif_scan.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_notif_scan.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_repeat_white_36dp.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_repeat_white_36dp.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_clear.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_clear.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_clear_orange.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_clear_orange.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_arrow_back.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_music_note_white.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_music_note_white.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_send.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/drawable-xxxhdpi/ic_notif_video.png",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/drawable-xxxhdpi/ic_notif_video.png"
+    }
+]

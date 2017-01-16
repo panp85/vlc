@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/ba03d67cb6fe61ca2249ea4f8bbf2629c55e3abe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_a14607f29f2155803ef91ff5ad4a5b31577c7576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/mnt/onego/panpan/player/vlc_new/vlc-android/libvlc/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca7efea9c33d0f441edabcad6dd6e9906f17bc60">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_982894edd1cb6674935549ab8a5fae8f3f4079b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/0f19bbc821b78a97acb5a5a38674fd85ee3bc521/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_32d11684001ab0fd55f976ee0486731547cbf49e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/mnt/onego/panpan/player/sdk/adt-bundle-linux-x86-20130917/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/support-annotations-25.1.0_5eef9ca16d07243b31dc5fc342d9d4802ad8a651.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/7bf5c54a6f056ebd2c20a074552b047dff394cdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_3ccd8023d66bffe70a7186aa53d4747adedeb0ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/mnt/onego/panpan/player/vlc_new/vlc-android/java-libs/axmlrpc/build/libs/axmlrpc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f31ac35252b78058f07e711886e351dfe7c54be3">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/axmlrpc_540b0b7797ba8f0e038b9bd78af90cb8f95d11d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/ca8420af7ac5d44a15aaf778edb1c19c4372b691/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_f4b46c89a4eb2b48dc0ce0c5b441ea257396cc08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.3.0-beta2/bf0a429fe1dca8e920a8e643178bc774992754e0/baseLibrary-2.3.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf0a429fe1dca8e920a8e643178bc774992754e0">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/baseLibrary-2.3.0-beta2_ca2b30047d0853954eae508eba53a6faedd233f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/cd58a11ea6bd75a40c127113debd5143a35b972b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_ab88b77ff36a93456389dafc55180ffbb87b23a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/934d9fe8f2873e56c5b7bc7b4940164d1c8b3efe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_7364e46190e74200813831b71b5dca9c0fb899bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af390582512dcb2ecf1ec7d6108525f07363ba27">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_e246cd8aae5947812dcf7d37fd93abb8e9b6e65d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/6c8e8700c19318fa855a978b50f10834e97836fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_e6a5c5927b807014f1c28975caf84ff4f0311bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/d6d399edfb2097e2d78e9cc752d77c65e85bda12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_8386e96dcc7a3c41ce828e52ec6acc83133f00d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/6f329758854ca58813c8c22208ef7d3f90d7725c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_a92f2112f2dd046fb446dd053975bae2d2161fa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/ea2f20656e9f76ed3a5ecbf8fd24e06bc97c7b27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_fc7b874cd56869092a8fe694eebcea8c456de7b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/mnt/onego/panpan/player/vlc_new/vlc-android/medialibrary/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e834a595782487ceb4e9641091a304a169a26431">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_57a277865452ac9753a6fc226e8b14aa80f3d80f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/mnt/onego/panpan/player/sdk/adt-bundle-linux-x86-20130917/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/constraint-layout-solver-1.0.0-beta4_8426b0f5d4e0a8d4743114449938adc0c6536765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/01f27f4fd974a739ef215ef859b1a95e046b7405/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_390f89fda9f72a046009e552c316d6429cb5ac38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_daa5d3af645a2fe73ba2c9ec928109a685bbb7d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/35bb359f737ecfb6a6784425ee00aad02c5931b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2703eaeda14f8680d8b88547c373fde0e1cb66aa">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_db319afb05e0b05117bc326faaeb79a497349fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/196b8574f7baefae52fbdd671e22d8160e8b9173/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_e2f9b42ea2c687f2b259b4c71129e8a1ac3a4bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/10a09e0f1f4e0ac02ae9776da24e33e339d74170/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_5442fdc945d6b6b8718d9d8c6f758aedd97f2c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="978ed659658434ee91ac8339cbca3975c7f0ef3a">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_16bc440b034a7627f1263db3bc2a678a9a67b77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/f20e6dcc697350ffad4cf68215f3fac202d9ccaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_e6c46268125a6614417b0f66ad3e68efa11b02b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/ca5579d80c48c3a39ee0dee11e924b0ef643ad07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0864efa886a954b5880b3007078477ed3e57409c">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_7c149e662ecca21c06bc65df0d149b44a3cec68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/8c3cc850b9ac67ecc96a711026d82aba63579591/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_6b195142fe9ddc9cc60da696ee3ad8516b04ae0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/panpan/.android/build-cache/1ea876245e890572c894dc6364af87145d305209/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/pre-dexed/vanillaARMv7/debug/classes_fa1cb313df6a6c34809d5b8795f0c26cfee18842.jar" />
+    </item>
+
+</items>

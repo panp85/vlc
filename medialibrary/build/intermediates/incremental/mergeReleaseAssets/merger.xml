@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/mnt/onego/panpan/player/vlc_new/vlc-android/medialibrary/assets"/><source path="/mnt/onego/panpan/player/vlc_new/vlc-android/medialibrary/libcompat/libs/armeabi"/><source path="/mnt/onego/panpan/player/vlc_new/vlc-android/medialibrary/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/mnt/onego/panpan/player/vlc_new/vlc-android/medialibrary/src/release/assets"/></dataSet></merger>

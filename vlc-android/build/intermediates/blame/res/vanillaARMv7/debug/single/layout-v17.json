@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/layout-v17/preference_category_material.xml",
+        "source": "/home/panpan/.android/build-cache/35bb359f737ecfb6a6784425ee00aad02c5931b0/output/res/layout-v17/preference_category_material.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/layout-v17/preference_material.xml",
+        "source": "/home/panpan/.android/build-cache/35bb359f737ecfb6a6784425ee00aad02c5931b0/output/res/layout-v17/preference_material.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/layout-v17/preference_information_material.xml",
+        "source": "/home/panpan/.android/build-cache/35bb359f737ecfb6a6784425ee00aad02c5931b0/output/res/layout-v17/preference_information_material.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/layout-v17/preference_dropdown_material.xml",
+        "source": "/home/panpan/.android/build-cache/35bb359f737ecfb6a6784425ee00aad02c5931b0/output/res/layout-v17/preference_dropdown_material.xml"
+    }
+]

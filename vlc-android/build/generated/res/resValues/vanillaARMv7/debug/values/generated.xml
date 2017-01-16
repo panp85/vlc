@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="build_host" translatable="false">panpan@onego</string>
+    <string name="build_revision" translatable="false">ad5e51316</string>
+    <string name="build_time" translatable="false">2017-01-16</string>
+    <string name="build_vlc_revision" translatable="false">6ece606d70</string>
+
+</resources>

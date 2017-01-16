@@ -1,0 +1,259 @@
+sqlite3-sqlite3.o: ../sqlite3.c \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/stdarg.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdint.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/stdint.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdint.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/stddef.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/__stddef_max_align_t.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/_types.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/_types.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/_wchar_limits.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/android/api-level.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/limits.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/limits.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/cdefs.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/cdefs_elf.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/limits.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/limits.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/internal_types.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/limits.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/syslimits.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/page.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/inttypes.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/inttypes.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/inttypes.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/wchar.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdio.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdio.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/types.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/posix_types.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/stddef.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/compiler.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/posix_types.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/types.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/types.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/kernel.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/sysmacros.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/xlocale.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/wctype.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdlib.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdlib.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/string.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/string.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/malloc.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/alloca.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/strings.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/memory.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/assert.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/ctype.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/ctype.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/time.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/time.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/time.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/time.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/siginfo.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/siginfo.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/pthread.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/signal.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/signal.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/signal.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/sigcontext.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/ucontext.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/user.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sched.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/stat.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/stat.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/endian.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/endian.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/fcntl.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/fcntl.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/fcntl.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/fcntl.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/unistd.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/select.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/sysconf.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/capability.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/pathconf.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/errno.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/errno.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/errno.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/errno.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/errno.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/errno-base.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/mman.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/mman.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/mman.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/mman-common.h \
+  /mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/dlfcn.h
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/stdarg.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdint.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/stdint.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdint.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/stddef.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/__stddef_max_align_t.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/_types.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/_types.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/_wchar_limits.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/android/api-level.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/limits.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/limits.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/cdefs_elf.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/limits.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/limits.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/internal_types.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/limits.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/syslimits.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/page.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/inttypes.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../lib64/clang/3.8.256229/include/inttypes.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/inttypes.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/wchar.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdio.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdio.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/types.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/posix_types.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/stddef.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/compiler.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/posix_types.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/types.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/types.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/machine/kernel.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/sysmacros.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/xlocale.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/wctype.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/stdlib.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/stdlib.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/string.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/string.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/malloc.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/alloca.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/strings.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/memory.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/assert.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/ctype.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/ctype.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/time.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/time.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/time.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/time.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/siginfo.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/siginfo.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/pthread.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/signal.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/signal.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/signal.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/sigcontext.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/ucontext.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/user.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sched.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/stat.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/stat.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/endian.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/endian.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/fcntl.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/fcntl.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/fcntl.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/fcntl.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/unistd.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/select.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/sysconf.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/capability.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/pathconf.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/local/include/errno.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/errno.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/linux/errno.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/errno.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/errno.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/errno-base.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/sys/mman.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm/mman.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/mman.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/asm-generic/mman-common.h:
+
+/mnt/onego/panpan/player/vlc_new/vlc-android/toolchains/arm/bin/../sysroot/usr/include/dlfcn.h:

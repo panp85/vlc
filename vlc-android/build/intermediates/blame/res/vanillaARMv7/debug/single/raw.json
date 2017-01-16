@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/raw/lb_voice_failure.ogg",
+        "source": "/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/res/raw/lb_voice_failure.ogg"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/raw/lb_voice_success.ogg",
+        "source": "/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/res/raw/lb_voice_success.ogg"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/raw/lb_voice_no_input.ogg",
+        "source": "/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/res/raw/lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/raw/lb_voice_open.ogg",
+        "source": "/home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/res/raw/lb_voice_open.ogg"
+    }
+]

@@ -1,0 +1,522 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:2:1-587:12
+	package
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:4:5-31
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+	android:versionName
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:7:5-32
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:6:5-35
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:5:5-35
+uses-sdk
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:27:5-30:128
+MERGED from [vlc-android:medialibrary:unspecified] /mnt/onego/panpan/player/vlc_new/vlc-android/medialibrary/build/intermediates/bundles/default/AndroidManifest.xml:5:5-43
+MERGED from [vlc-android:libvlc:unspecified] /mnt/onego/panpan/player/vlc_new/vlc-android/libvlc/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [vlc-android:api:unspecified] /mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/bundles/default/AndroidManifest.xml:29:5-43
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/panpan/.android/build-cache/ca8420af7ac5d44a15aaf778edb1c19c4372b691/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.1.0] /home/panpan/.android/build-cache/934d9fe8f2873e56c5b7bc7b4940164d1c8b3efe/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.1.0] /home/panpan/.android/build-cache/0f19bbc821b78a97acb5a5a38674fd85ee3bc521/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-leanback-v17:25.1.0] /home/panpan/.android/build-cache/ca5579d80c48c3a39ee0dee11e924b0ef643ad07/output/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v14:25.1.0] /home/panpan/.android/build-cache/35bb359f737ecfb6a6784425ee00aad02c5931b0/output/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:preference-v7:25.1.0] /home/panpan/.android/build-cache/f20e6dcc697350ffad4cf68215f3fac202d9ccaa/output/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/panpan/.android/build-cache/8c3cc850b9ac67ecc96a711026d82aba63579591/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/panpan/.android/build-cache/d6d399edfb2097e2d78e9cc752d77c65e85bda12/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:leanback-v17:25.1.0] /home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/panpan/.android/build-cache/6f329758854ca58813c8c22208ef7d3f90d7725c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/panpan/.android/build-cache/1ea876245e890572c894dc6364af87145d305209/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.databinding:adapters:1.3.1] /home/panpan/.android/build-cache/7bf5c54a6f056ebd2c20a074552b047dff394cdc/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /home/panpan/.android/build-cache/ba03d67cb6fe61ca2249ea4f8bbf2629c55e3abe/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.1.0] /home/panpan/.android/build-cache/ea2f20656e9f76ed3a5ecbf8fd24e06bc97c7b27/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/panpan/.android/build-cache/cd58a11ea6bd75a40c127113debd5143a35b972b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/panpan/.android/build-cache/01f27f4fd974a739ef215ef859b1a95e046b7405/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/panpan/.android/build-cache/6c8e8700c19318fa855a978b50f10834e97836fb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/panpan/.android/build-cache/10a09e0f1f4e0ac02ae9776da24e33e339d74170/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/panpan/.android/build-cache/196b8574f7baefae52fbdd671e22d8160e8b9173/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:30:9-125
+	android:targetSdkVersion
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:29:9-38
+	android:minSdkVersion
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:28:9-34
+uses-permission#android.permission.READ_LOGS
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:32:5-33:38
+	android:maxSdkVersion
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:33:9-35
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:32:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:36:5-66
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:36:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:39:5-73
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:39:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:42:5-81
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:42:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:45:5-67
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:45:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:48:5-81
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:48:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:51:5-79
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:51:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:52:5-68
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:52:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:53:5-80
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:53:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:54:5-67
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:54:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:56:5-77
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:56:22-75
+uses-feature#android.software.leanback
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:58:5-59:36
+	android:required
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:59:9-33
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:58:19-59
+uses-feature#android.hardware.touchscreen
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:60:5-62:36
+	android:required
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:62:9-33
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:61:9-52
+uses-feature#android.hardware.microphone
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:63:5-64:35
+	android:required
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:64:9-33
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:63:19-61
+uses-feature#android.hardware.bluetooth
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:66:5-67:36
+	android:required
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:67:9-33
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:66:19-60
+application
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:69:5-585:19
+MERGED from [vlc-android:medialibrary:unspecified] /mnt/onego/panpan/player/vlc_new/vlc-android/medialibrary/build/intermediates/bundles/default/AndroidManifest.xml:7:5-20
+MERGED from [vlc-android:api:unspecified] /mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/bundles/default/AndroidManifest.xml:31:5-38:19
+MERGED from [com.android.support:cardview-v7:25.1.0] /home/panpan/.android/build-cache/ca8420af7ac5d44a15aaf778edb1c19c4372b691/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.1.0] /home/panpan/.android/build-cache/934d9fe8f2873e56c5b7bc7b4940164d1c8b3efe/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] /home/panpan/.android/build-cache/0f19bbc821b78a97acb5a5a38674fd85ee3bc521/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:preference-leanback-v17:25.1.0] /home/panpan/.android/build-cache/ca5579d80c48c3a39ee0dee11e924b0ef643ad07/output/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support:preference-v14:25.1.0] /home/panpan/.android/build-cache/35bb359f737ecfb6a6784425ee00aad02c5931b0/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:preference-v7:25.1.0] /home/panpan/.android/build-cache/f20e6dcc697350ffad4cf68215f3fac202d9ccaa/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/panpan/.android/build-cache/75078510c584e2046cbca8d3439d2c97e4883034/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/panpan/.android/build-cache/8c3cc850b9ac67ecc96a711026d82aba63579591/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/panpan/.android/build-cache/d6d399edfb2097e2d78e9cc752d77c65e85bda12/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:leanback-v17:25.1.0] /home/panpan/.android/build-cache/069e81b2e6649e4cc8bebac24c0d58c1187452b7/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/panpan/.android/build-cache/1ea876245e890572c894dc6364af87145d305209/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/panpan/.android/build-cache/ea2f20656e9f76ed3a5ecbf8fd24e06bc97c7b27/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/panpan/.android/build-cache/cd58a11ea6bd75a40c127113debd5143a35b972b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/panpan/.android/build-cache/01f27f4fd974a739ef215ef859b1a95e046b7405/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/panpan/.android/build-cache/6c8e8700c19318fa855a978b50f10834e97836fb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/panpan/.android/build-cache/10a09e0f1f4e0ac02ae9776da24e33e339d74170/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/panpan/.android/build-cache/196b8574f7baefae52fbdd671e22d8160e8b9173/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:76:9-41
+	android:supportsRtl
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:79:9-35
+	android:hardwareAccelerated
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:71:9-43
+	android:allowBackup
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:72:9-35
+	android:icon
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:74:9-38
+	android:largeHeap
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:73:9-33
+	tools:targetAPI
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:80:9-35
+	android:banner
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:75:9-42
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:78:9-53
+	android:logo
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:77:9-38
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:70:9-55
+meta-data#com.samsung.android.sdk.multiwindow.enable
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:83:9-101
+	android:value
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:83:78-98
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:83:20-77
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:85:9-87
+	android:value
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:85:64-84
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:85:20-63
+meta-data#com.google.android.gms.car.application
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:87:9-88:58
+	android:resource
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:88:13-56
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:87:20-73
+meta-data#com.google.android.gms.car.notification.SmallIcon
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:89:9-90:49
+	android:resource
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:90:13-46
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:89:20-84
+activity#org.videolan.vlc.StartActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:92:9-427:20
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:93:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:94:13-99:29
+action#android.intent.action.MAIN
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:95:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:97:17-77
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:97:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:98:17-86
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:98:27-83
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:102:13-119:29
+action#android.intent.action.VIEW
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:103:17-69
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:103:25-66
+category#android.intent.category.DEFAULT
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:105:17-76
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:105:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:106:17-78
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:106:27-75
+data
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:108:17-47
+	android:scheme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:108:23-44
+activity#org.videolan.vlc.gui.MainActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:428:9-438:20
+	android:label
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:431:13-45
+	android:launchMode
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:432:13-44
+	android:windowSoftInputMode
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:433:13-52
+	android:icon
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:430:13-42
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:434:13-45
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:429:13-45
+meta-data#android.app.searchable
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:435:13-436:54
+	android:resource
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:436:17-51
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:435:24-61
+activity#org.videolan.vlc.gui.SecondaryActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:439:9-442:47
+	android:windowSoftInputMode
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:441:13-52
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:442:13-45
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:440:13-50
+activity#org.videolan.vlc.gui.SearchActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:443:9-455:20
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:445:13-45
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:444:13-47
+intent-filter#android.intent.action.SEARCH
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:446:13-448:29
+action#android.intent.action.SEARCH
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:447:17-71
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:447:25-68
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.actions.SEARCH_ACTION
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:449:13-452:29
+action#com.google.android.gms.actions.SEARCH_ACTION
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:450:17-86
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:450:25-84
+activity#org.videolan.vlc.gui.browser.FilePickerActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:456:9-458:60
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:458:13-58
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:457:13-59
+activity#org.videolan.vlc.gui.CompatErrorActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:459:9-61
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:459:19-58
+activity#org.videolan.vlc.gui.preferences.PreferencesActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:460:9-461:48
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:461:13-45
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:460:19-70
+activity#org.videolan.vlc.gui.DebugLogActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:463:9-464:52
+	android:launchMode
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:464:19-49
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:463:19-55
+service#org.videolan.vlc.DebugLogService
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:465:9-466:46
+	android:process
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:466:18-43
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:465:18-49
+activity#org.videolan.vlc.gui.video.VideoPlayerActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:467:9-472:55
+	android:launchMode
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:471:13-43
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:470:13-36
+	android:configChanges
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:469:13-59
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:472:13-52
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:468:13-58
+activity#org.videolan.vlc.gui.DialogActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:474:9-477:55
+	android:configChanges
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:476:13-59
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:477:13-52
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:475:13-47
+service#org.videolan.vlc.extensions.ExtensionManagerService
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:479:9-71
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:479:18-68
+service#org.videolan.vlc.PlaybackService
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:480:9-484:19
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:480:18-49
+intent-filter#android.media.browse.MediaBrowserService
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:481:14-483:30
+action#android.media.browse.MediaBrowserService
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:482:17-83
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:482:25-80
+receiver#org.videolan.vlc.widget.VLCAppWidgetProviderWhite
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:485:9-500:20
+	android:label
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:488:13-50
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:487:13-37
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:486:13-61
+intent-filter#${applicationId}.widget.INIT+${applicationId}.widget.UPDATE+${applicationId}.widget.UPDATE_COVER+${applicationId}.widget.UPDATE_POSITION+android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:489:13-495:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:490:17-84
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:490:25-81
+action#${applicationId}.widget.INIT
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:491:17-71
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:491:25-68
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+action#${applicationId}.widget.UPDATE
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:492:17-73
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:492:25-70
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+action#${applicationId}.widget.UPDATE_COVER
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:493:17-79
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:493:25-76
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+action#${applicationId}.widget.UPDATE_POSITION
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:494:17-82
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:494:25-79
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+meta-data#android.appwidget.provider
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:497:13-499:61
+	android:resource
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:499:17-58
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:498:17-58
+receiver#org.videolan.vlc.widget.VLCAppWidgetProviderBlack
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:501:9-516:20
+	android:label
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:504:13-50
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:503:13-37
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:502:13-61
+receiver#org.videolan.vlc.RemoteControlClientReceiver
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:517:9-524:20
+	android:process
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:519:13-36
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:518:13-36
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:517:19-62
+intent-filter#${applicationId}.remote.PlayPause+android.intent.action.MEDIA_BUTTON
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:520:13-523:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:521:17-77
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:521:25-74
+action#${applicationId}.remote.PlayPause
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:522:17-76
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:522:25-73
+		INJECTED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml
+activity#org.videolan.vlc.gui.video.benchmark.BenchActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:526:9-531:55
+	android:screenOrientation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:528:13-50
+	android:launchMode
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:530:13-48
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:529:13-36
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:531:13-52
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:527:13-62
+activity#org.videolan.vlc.gui.tv.MainTvActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:534:9-539:51
+	android:screenOrientation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:538:13-50
+	android:label
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:536:13-45
+	android:launchMode
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:537:13-48
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:539:13-48
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:535:13-66
+activity#org.videolan.vlc.gui.tv.DetailsActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:540:9-544:61
+	android:screenOrientation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:543:13-50
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:542:13-36
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:544:13-58
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:541:13-67
+activity#org.videolan.vlc.gui.tv.browser.VerticalGridActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:545:9-549:52
+	android:screenOrientation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:548:13-50
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:547:13-36
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:549:13-48
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:546:13-64
+activity#org.videolan.vlc.gui.tv.SearchActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:550:9-554:52
+	android:screenOrientation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:553:13-50
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:552:13-36
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:554:13-48
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:551:13-66
+activity#org.videolan.vlc.gui.tv.audioplayer.AudioPlayerActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:555:9-561:52
+	android:screenOrientation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:559:13-50
+	android:launchMode
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:558:13-44
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:557:13-36
+	android:allowTaskReparenting
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:560:13-48
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:561:13-48
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:556:13-83
+activity#org.videolan.vlc.gui.tv.preferences.PreferencesActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:562:9-564:69
+	android:screenOrientation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:563:13-50
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:564:13-66
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:562:19-73
+activity#org.videolan.vlc.gui.tv.AboutActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:565:9-567:52
+	android:screenOrientation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:566:13-50
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:567:13-48
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:565:19-55
+activity#org.videolan.vlc.gui.tv.LicenceActivity
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:568:9-570:52
+	android:screenOrientation
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:569:13-50
+	android:theme
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:570:13-48
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:568:19-57
+service#org.videolan.vlc.RecommendationsService
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:572:9-575:19
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:574:13-37
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:573:13-51
+receiver#org.videolan.vlc.BootupReceiver
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:577:9-584:20
+	android:enabled
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:579:13-35
+	android:exported
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:580:13-36
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:578:13-43
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:581:11-583:27
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:582:13-74
+	android:name
+		ADDED from /mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/AndroidManifest.xml:582:21-72
+activity#org.videolan.vlc.extensions.api.WarningActivity
+ADDED from [vlc-android:api:unspecified] /mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/bundles/default/AndroidManifest.xml:35:9-37:55
+	android:theme
+		ADDED from [vlc-android:api:unspecified] /mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/bundles/default/AndroidManifest.xml:37:13-52
+	android:name
+		ADDED from [vlc-android:api:unspecified] /mnt/onego/panpan/player/vlc_new/vlc-android/api/build/intermediates/bundles/default/AndroidManifest.xml:36:13-75

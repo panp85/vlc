@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/action_mode_video.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/action_mode_video.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/extension_context_menu.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/extension_context_menu.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/directory_custom_dir.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/directory_custom_dir.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/action_mode_audio_browser.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/action_mode_audio_browser.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/directory_view_dir.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/directory_view_dir.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/navigation.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/navigation.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/action_mode_browser_file.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/action_mode_browser_file.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/video_list.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/video_list.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/directory_view_file.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/directory_view_file.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/video_group_contextual.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/video_group_contextual.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/action_mode_history.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/action_mode_history.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/media_library.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/media_library.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/audio_player.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/audio_player.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/history_view.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/history_view.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/audio_list_browser.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/audio_list_browser.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/video_group.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/video_group.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/menu/audiosub_tracks.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/menu/audiosub_tracks.xml"
+    }
+]

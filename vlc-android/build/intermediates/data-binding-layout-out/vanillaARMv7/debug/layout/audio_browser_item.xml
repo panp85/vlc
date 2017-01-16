@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+    
+                                          
+                                               
+                                                                         
+                 
+                            
+                         
+                 
+                       
+                                     
+                 
+                        
+                                                             
+                 
+                         
+                                                                                        
+           
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:longClickable="true"
+        android:clickable="true"
+        android:tag="layout/audio_browser_item_0"                               
+                                            
+                                                       xmlns:android="http://schemas.android.com/apk/res/android" xmlns:vlc="http://schemas.android.com/apk/res-auto">
+
+        <!-- Image loading is handled by org.videolan.vlc.gui.helpers.AsyncImageLoader.loadPicture() -->
+        <ImageView
+            android:id="@+id/media_cover"
+            android:layout_width="@dimen/audio_browser_item_size"
+            android:layout_height="@dimen/audio_browser_item_size"
+            android:layout_gravity="center"
+                               
+            android:tag="binding_1"      
+                                                                                                                                                                                     />
+
+        <LinearLayout
+            android:id="@+id/audio_item_meta"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignTop="@+id/media_cover"
+            android:layout_alignBottom="@+id/media_cover"
+            android:layout_toRightOf="@+id/media_cover"
+            android:layout_toEndOf="@+id/media_cover"
+            android:layout_toLeftOf="@+id/item_more"
+            android:layout_toStartOf="@+id/item_more"
+            android:paddingLeft="@dimen/half_default_margin"
+            android:paddingStart="@dimen/half_default_margin"
+            android:orientation="vertical" >
+
+            <!-- TextView must be set to singleLine
+                see https://code.google.com/p/android/issues/detail?id=33868 -->
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:gravity="center_vertical"
+                android:ellipsize="end"
+                android:tag="binding_2"     
+                                            
+                android:fontFamily="sans-serif-light"
+                android:textColor="?attr/list_title"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/subtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:ellipsize="middle"
+                android:tag="binding_3"           
+                android:fontFamily="sans-serif-light"
+                android:textColor="?attr/list_subtitle"
+                                                                                                      />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/item_more"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignTop="@+id/media_cover"
+            android:layout_alignBottom="@+id/media_cover"
+            android:scaleType="center"
+            android:src="@drawable/ic_more"
+            android:contentDescription="@string/more_actions"
+            android:tag="binding_4"                  />
+    </RelativeLayout>
+         

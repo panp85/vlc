@@ -1,0 +1,8 @@
+prefix=/mnt/onego/panpan/player/vlc_new/vlc-android/medialibrary/medialibrary/libvlcpp
+libdir=${prefix}
+includedir=${prefix}
+
+Name: libvlcpp
+Description: libvlc C++ bindings
+Version: 0.1.0
+Cflags: -I${includedir}

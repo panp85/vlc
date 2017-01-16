@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/layout-land/media_info.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/layout-land/media_info.xml"
+    },
+    {
+        "merged": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/build/intermediates/res/merged/vanillaARMv7/debug/layout-land/equalizer.xml",
+        "source": "/mnt/onego/panpan/player/vlc_new/vlc-android/vlc-android/res/layout-land/equalizer.xml"
+    }
+]
